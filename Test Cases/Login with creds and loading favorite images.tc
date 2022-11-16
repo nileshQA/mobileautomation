@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with creds and loading favorite images</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03240f5d-a721-4281-9365-9612471e2337</testCaseGuid>
+</TestCaseEntity>

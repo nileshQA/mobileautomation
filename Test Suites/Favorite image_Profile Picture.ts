@@ -4,7 +4,7 @@
    <name>Favorite image_Profile Picture</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>nliesh@inventam.com;</mailRecipient>
+   <mailRecipient>nliesh@inventam.com;;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>

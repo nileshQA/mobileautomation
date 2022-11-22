@@ -21,87 +21,86 @@ Mobile.startApplication('C:\\Users\\Admin\\Downloads\\app-release.apk', true)
 
 Mobile.delay(10)
 
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
+for (int i = 0; i < 20; i++) {
+    Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+        )
+}
 
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
-Mobile.swipe(550, 1500, 550, 500 //Scroll Down
-    )
-
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
+//
+//Mobile.swipe(550, 1500, 550, 500 //Scroll Down
+//    )
 Mobile.delay(5)
 
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
+for (int i = 0; i < 20; i++) {
+    Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+        )
+}
 
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
-Mobile.swipe(550, 500, 550, 1500 //Scroll Up
-    )
-
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
+//
+//Mobile.swipe(550, 500, 550, 1500 //Scroll Up
+//    )
 Mobile.delay(5)
 
 Mobile.closeApplication()
-
-for (def index : (0..0)) {
-}
 

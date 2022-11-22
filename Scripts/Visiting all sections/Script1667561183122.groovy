@@ -23,15 +23,17 @@ Mobile.swipe(0, 500, 0, -100)
 
 Mobile.swipe(0, 1000, 0, -100)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (14)'), 0)
+Mobile.tap(findTestObject('Download BUTTON (Bottom Menu)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (15)'), 0)
+Mobile.tap(findTestObject('Used Wallpaper BUTTON'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (14)'), 0)
+Mobile.tap(findTestObject('User Icon (BOTTOM MENU)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.view.View (16)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.view.View (17)'), 0)
+
+Mobile.delay(5)
 
 Mobile.closeApplication()
 

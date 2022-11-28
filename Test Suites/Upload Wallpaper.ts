@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>26dff88c-2b30-495b-a369-458c703dc5e3</guid>
+      <guid>a63bf0e4-a0b5-4b30-a629-9fb9e0ad6320</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Visiting all sections</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Visiting All Sections</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

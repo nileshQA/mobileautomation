@@ -19,43 +19,37 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Admin\\Downloads\\app-release.apk', true)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (5)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (21)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (5)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (45)'), 0)
 
-Mobile.tap(findTestObject('android.widget.ImageView (6)'), 0)
+Mobile.tap(findTestObject('Login with google button'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - nilesh Likhar (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - nilesh Likhar (6)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (7)'), 0)
+Mobile.tap(findTestObject('android.widget.Button (45)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (6)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (46)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (7)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView (2)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (8)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (9)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (10)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.view.View (6)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (47)'), 0)
 
 Mobile.pressBack()
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (11)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.view.View (41)'), 0)
 
-Mobile.pressBack()
+Mobile.tap(findTestObject('Object Repository/android.view.View (42)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (7)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.view.View (43)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (8)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (48)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button (12)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.view.View (44)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (9)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (49)'), 0)
+
+Mobile.delay(10)
 
 Mobile.closeApplication()
 

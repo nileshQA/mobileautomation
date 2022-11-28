@@ -19,21 +19,32 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Admin\\Downloads\\app-release.apk', true)
 
-Mobile.swipe(0, 500, 0, -100)
+'clicking on wallpaper'
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (20)'), 0)
 
-Mobile.swipe(0, 1000, 0, -100)
+'wallpaper menu button'
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (43)'), 0)
 
-Mobile.tap(findTestObject('Download BUTTON (Bottom Menu)'), 0)
+'original wallpaper'
+Mobile.tap(findTestObject('Object Repository/android.view.View (37)'), 0)
 
-Mobile.tap(findTestObject('Used Wallpaper BUTTON'), 0)
+Mobile.pressBack()
 
-Mobile.tap(findTestObject('User Icon (BOTTOM MENU)'), 0)
+Mobile.pressBack()
 
-Mobile.tap(findTestObject('Object Repository/android.view.View (16)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.view.View (17)'), 0)
+Mobile.pressBack()
 
 Mobile.delay(5)
+
+Mobile.tap(findTestObject('Object Repository/android.view.View (38)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.view.View (39)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button (44)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.view.View (40)'), 0)
+
+Mobile.delay(10)
 
 Mobile.closeApplication()
 
